@@ -1,0 +1,80 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding: 5px;
+}
+.menu{
+    display: flex;
+    margin:2px;
+    justify-content: center;
+}
+.image{
+    background-color: white;
+    border:solid 2px black;
+    width:200px;
+    color:black;
+    padding:5px;
+    margin:10px;
+}
+
+button{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    border:solid black 2px;
+    margin-bottom: 0px;
+}
+button:hover{
+    background-color: white;
+    color:black; 
+}
+.image_2{
+    background-color: white;
+    border:solid 2px black;
+    width:200px;
+    color:black;
+    padding:5px;
+    margin:10px;
+}
+.image_3{
+    background-color: white;
+    border:solid 2px black;
+    width:200px;
+    color:black;
+    padding:5px;
+    margin:10px;
+
+}
+.image_4{
+    background-color: white;
+    border:solid 2px black;
+    width:200px;
+    color:black;
+    padding:5px;
+    margin:10px;
+}
+.contact{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+.submit{
+    max-width:"20px";
+    background-color: yellow;
+    color: black;
+    width: 400px;
+
+}
+.submit:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+
+
